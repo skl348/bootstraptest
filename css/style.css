@@ -1,4 +1,13 @@
 
+body {
+	padding-top: 40px;
+}
+
+
+.carousel-caption {
+    background: rgba(0,0,0,0.25);
+}
+
 /*
 div.c_wrapper {
 	width: 80%;
